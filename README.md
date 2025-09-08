@@ -54,7 +54,7 @@ opennest/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/opennest.git
+git clone https://github.com/nitinpathekar/opennest.git
 cd opennest
 ```
 
@@ -85,7 +85,6 @@ Backend (server/.env)
 ```
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/opennest
-JWT_SECRET=supersecret_opennest_key
 CLIENT_URL=http://localhost:5173
 ```
 
